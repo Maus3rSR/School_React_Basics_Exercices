@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.miroir {
+  width: 18rem;
+}
+
+.miroir img {
+  opacity: 0;
+  transition: opacity 3s;
+}
+
+.boite {
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+}
