@@ -32,7 +32,7 @@ function App() {
         <p>Vous avez l'air d'être un aventurier plein de charme dites-moi.</p>
       </section>
 
-      <section id="" className="my-5">
+      <section id="exercice4" className="my-5">
         <h2>Les boîtes polycouleurs</h2>
 
         <div className="row">
